@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+leapGestRecog/
+leapgestrecog.zip
+gesture_model.h5
+*.h5
+__pycache__/
+.DS_Store
+EOF
